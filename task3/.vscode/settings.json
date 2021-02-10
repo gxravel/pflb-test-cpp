@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "random": "cpp",
-        "xstring": "cpp",
-        "string": "cpp",
-        "stdexcept": "cpp"
-    }
-}
